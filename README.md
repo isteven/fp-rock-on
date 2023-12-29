@@ -1,4 +1,4 @@
-## Fingerpunch Rock On
+# Fingerpunch Rock On
 
 Rock On is a 69-keys, ergonomic ortholinear unibody keyboard by [Fingerpunch](https://fingerpunch.xyz/). This build uses version 3.1 of the PCB, which supports MX/Choc switch, per-key-LEDs, trackball, Cirque trackpad, 3 rotary encoders, audio, as well as haptic feedback. 
 
