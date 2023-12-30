@@ -2,6 +2,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 show_downloads: false 
 title: 'Rock On'
 description: 'Ergonomic ortholinear unibody keyboard by Fingerpunch'
-logo: https://fingerpunch.xyz/wp-content/uploads/2022/01/cropped-fingerpunch-contender-logo-only-63x62.png
+logo: fp-logo.jpg
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have oneremote_theme: pages-themes/minimal@v0.2.0S
