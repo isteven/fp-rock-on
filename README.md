@@ -10,11 +10,11 @@ I re-designed a new case for it, based on the existing Rock On case. This design
 
 <img src="rock-on-2.jpg" alt="image" width="100%" height="auto">
 
-I love the PCB & the logo, so I created a small window at the bottom. It's printed using transparent resin.
+I somehow found the the PCB & the logo appealing, so I created a small window at the bottom to display part of the PCB and the logo. It's printed using transparent resin.
 
 <img src="rock-on-3.jpg" alt="image" width="100%" height="auto">
 
-Finally, one unique decorative element of the case is the illuminated Rock On logo on the trackball cover. I use two SK6812 mini-e RGB LEDs, one under the logo, and another one under the trackball. These LEDs are soldered to the existing LED pads on the PCB using AWG 30 wires. It's a tedious work but worth the effort.
+Finally, one unique decorative element of the case is the illuminated Rock On logo on the trackball cover, as well as under the trackball holder. I use two SK6812 mini-e RGB LEDs, one under the logo, and another one under the trackball. These LEDs are soldered to the existing LED pads on the PCB using AWG 30 wires. It's a tedious work but worth the effort.
 
 <img src="rock-on-4.jpg" alt="image" width="100%" height="auto">
 <img src="rock-on-5.jpg" alt="image" width="100%" height="auto">
