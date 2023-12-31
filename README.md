@@ -1,4 +1,4 @@
-# Rock On
+## About
 
 Rock On is a QMK-powered, 69-keys ergonomic ortholinear unibody keyboard by [Fingerpunch](https://fingerpunch.xyz/). This build uses version 3.1 of the PCB. It supports both normal MX and Kailh low profile Choc switch, per-key-LEDs, trackball, Cirque trackpad, 3 rotary encoders, (8 bit?) audio, as well as haptic feedback. 
 
