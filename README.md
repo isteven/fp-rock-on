@@ -1,14 +1,16 @@
-# About
+# Rock On
 
-Rock On is a 69-keys, ergonomic ortholinear unibody keyboard by [Fingerpunch](https://fingerpunch.xyz/). This build uses version 3.1 of the PCB, which supports MX/Choc switch, per-key-LEDs, trackball, Cirque trackpad, 3 rotary encoders, audio, as well as haptic feedback. 
+Rock On is a QMK-powered, 69-keys ergonomic ortholinear unibody keyboard by [Fingerpunch](https://fingerpunch.xyz/). This build uses version 3.1 of the PCB. It supports both normal MX and Kailh low profile Choc switch, per-key-LEDs, trackball, Cirque trackpad, 3 rotary encoders, (8 bit?) audio, as well as haptic feedback. 
 
-I prefer ergo ortho keyboards in unibody form over split keyboards, so I was really excited when I found this. 
+I prefer ergo ortho keyboards in unibody form over split keyboards, so I was really excited when I found this. For this build, I opt for the usual MX switch, trackball, audio and haptic feedback, but no rotary encoders as I don't really need them.
 
 <img src="rock-on-1.jpg" alt="image" width="100%" height="auto">
+<br /><br />
+<img src="rock-on-2.jpg" alt="image" width="100%" height="auto">
 
 I re-designed a new case for it, based on the existing Rock On case. This design gives it a more modern, angular look. The top half is 3D printed using black resin, while the bottom half is printed using PLA.
 
-<img src="rock-on-2.jpg" alt="image" width="100%" height="auto">
+<img src="rock-on-6.jpg" alt="image" width="100%" height="auto">
 
 I somehow found the the PCB & the logo appealing, so I created a small window at the bottom to display part of the PCB and the logo. It's printed using transparent resin.
 
